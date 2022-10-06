@@ -1,2 +1,7 @@
 owebobe
 WOW, NEW LINE
+3rd Line, I CANT BELIEVE ITgit remote add origin git@github.com:Sebas2023/Practice1.git
+git branch -M main
+git push -u origin maingit remote add origin git@github.com:Sebas2023/Practice1.git
+git branch -M main
+git push -u origin main
